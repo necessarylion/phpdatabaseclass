@@ -189,10 +189,6 @@ Class DB{
 
 }
 
-//$result = DB::select()->limit(2)->orderby('title desc')->get();
-// Class Posts extends DB{
-
-// }
 
 
 
